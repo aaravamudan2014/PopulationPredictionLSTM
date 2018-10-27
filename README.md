@@ -8,7 +8,7 @@ This program is designed as a population predicting tool. The objective is to pr
 2. Data available for every state from 1993 – 2009
 3. Taken year by year
 
-# Neural Netowrk Architecture
+# Neural Network Architecture
 1. Inputs contain 51 parameters.
 2. Outputs contain 51 parameters.
 3. Single hidden layer with LSTM cell.
