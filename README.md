@@ -4,9 +4,9 @@ This program is designed as a population predicting tool. The objective is to pr
 
 
 # Input
-1.Each state has a size 51 vector for each year. 
-2.Data available for every state from 1993 – 2009
-3.Taken year by year
+1. Each state has a size 51 vector for each year. 
+2. Data available for every state from 1993 – 2009
+3. Taken year by year
 
 # Neural Netowrk Architecture
 1. Inputs contain 51 parameters.
